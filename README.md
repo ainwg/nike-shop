@@ -4,5 +4,5 @@ nike-shop is a go-to destination for sports shoe enthusiasts and athletes alike.
 
 # Build with:
 
-» Tailwind CSS
+» Tailwind CSS <br/>
 » React JS
